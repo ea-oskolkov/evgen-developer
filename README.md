@@ -16,7 +16,7 @@ I use the following technologies and programming languages:
 * Spring
 
 **RDBMS**
-* SMS SQL Server
+* MS SQL Server
 * SQLite
 * PostgreSQL
 
