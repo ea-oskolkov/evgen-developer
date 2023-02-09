@@ -7,9 +7,9 @@ I am mainly involved in the development of application and system software, but 
 I use the following technologies and programming languages:
 
 **Languages**
-* C/C++
+* C
+* C++
 * Java
-* JS
 
 **Frameworks**
 * Qt
@@ -22,7 +22,7 @@ I use the following technologies and programming languages:
 
 **Automation tools**
 * Bash
-* PowerShell
+* Windows CMD
 
 **Quick links:**
 [Blog](https://evgen-developer.online)
